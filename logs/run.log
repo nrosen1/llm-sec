@@ -1,0 +1,58 @@
+2023-12-13 15:18:52,075 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:23:57,048 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:28:33,469 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:30:50,325 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:32:47,706 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:33:22,420 - easyeditor.editors.editor - INFO - Execution 0 editing took 24.29052758216858
+2023-12-13 15:33:22,491 - easyeditor.editors.editor - INFO - Evaluation took 0.07025361061096191
+2023-12-13 15:33:22,491 - easyeditor.editors.editor - INFO - 0 editing: What university did Watts Humphrey attend? -> University of Michigan  
+ {'pre': {'rewrite_acc': [0.3333333333333333], 'portability': {}}, 'case_id': 0, 'requested_rewrite': {'prompt': 'What university did Watts Humphrey attend?', 'target_new': 'University of Michigan', 'ground_truth': 'Illinois Institute of Technology', 'portability': {}, 'locality': {}, 'subject': 'Watts Humphrey'}, 'time': 24.29052758216858, 'post': {'rewrite_acc': [1.0], 'locality': {}, 'portability': {}}}
+2023-12-13 15:33:32,904 - easyeditor.editors.editor - INFO - Execution 1 editing took 10.412568092346191
+2023-12-13 15:33:32,974 - easyeditor.editors.editor - INFO - Evaluation took 0.0695335865020752
+2023-12-13 15:33:32,974 - easyeditor.editors.editor - INFO - 1 editing: Which family does Ramalinaceae belong to -> Lamiinae  
+ {'pre': {'rewrite_acc': [0.0], 'portability': {}}, 'case_id': 1, 'requested_rewrite': {'prompt': 'Which family does Ramalinaceae belong to', 'target_new': 'Lamiinae', 'ground_truth': 'Lecanorales', 'portability': {}, 'locality': {}, 'subject': 'Ramalinaceae'}, 'time': 10.412568092346191, 'post': {'rewrite_acc': [1.0], 'locality': {}, 'portability': {}}}
+2023-12-13 15:33:39,782 - easyeditor.editors.editor - INFO - Execution 2 editing took 6.807873964309692
+2023-12-13 15:33:39,851 - easyeditor.editors.editor - INFO - Evaluation took 0.06969666481018066
+2023-12-13 15:33:39,852 - easyeditor.editors.editor - INFO - 2 editing: What role does Denny Herzig play in football? -> winger  
+ {'pre': {'rewrite_acc': [0.0], 'portability': {}}, 'case_id': 2, 'requested_rewrite': {'prompt': 'What role does Denny Herzig play in football?', 'target_new': 'winger', 'ground_truth': 'defender', 'portability': {}, 'locality': {}, 'subject': 'Denny Herzig'}, 'time': 6.807873964309692, 'post': {'rewrite_acc': [1.0], 'locality': {}, 'portability': {}}}
+2023-12-13 15:34:03,105 - easyeditor.editors.editor - INFO - Execution 3 editing took 23.25317120552063
+2023-12-13 15:34:03,175 - easyeditor.editors.editor - INFO - Evaluation took 0.07007360458374023
+2023-12-13 15:34:03,175 - easyeditor.editors.editor - INFO - 3 editing: Who was the designer of Lahti Town Hall? -> Alfred Lahti  
+ {'pre': {'rewrite_acc': [0.5], 'portability': {}}, 'case_id': 3, 'requested_rewrite': {'prompt': 'Who was the designer of Lahti Town Hall?', 'target_new': 'Alfred Lahti', 'ground_truth': 'Eliel Saarinen', 'portability': {}, 'locality': {}, 'subject': 'Lahti Town Hall'}, 'time': 23.25317120552063, 'post': {'rewrite_acc': [1.0], 'locality': {}, 'portability': {}}}
+2023-12-13 15:34:10,826 - easyeditor.editors.editor - INFO - Execution 4 editing took 7.650227069854736
+2023-12-13 15:34:10,898 - easyeditor.editors.editor - INFO - Evaluation took 0.07242774963378906
+2023-12-13 15:34:10,898 - easyeditor.editors.editor - INFO - 4 editing: What is the original channel that It's a Business played on? -> ITV  
+ {'pre': {'rewrite_acc': [0.0], 'portability': {}}, 'case_id': 4, 'requested_rewrite': {'prompt': "What is the original channel that It's a Business played on?", 'target_new': 'ITV', 'ground_truth': 'DuMont Television Network', 'portability': {}, 'locality': {}, 'subject': "It's a Business"}, 'time': 7.650227069854736, 'post': {'rewrite_acc': [1.0], 'locality': {}, 'portability': {}}}
+2023-12-13 15:34:17,700 - easyeditor.editors.editor - INFO - Execution 5 editing took 6.80166482925415
+2023-12-13 15:34:17,770 - easyeditor.editors.editor - INFO - Evaluation took 0.06951713562011719
+2023-12-13 15:34:17,770 - easyeditor.editors.editor - INFO - 5 editing: What city did Marl Young live when he died? -> New Orleans  
+ {'pre': {'rewrite_acc': [0.0], 'portability': {}}, 'case_id': 5, 'requested_rewrite': {'prompt': 'What city did Marl Young live when he died?', 'target_new': 'New Orleans', 'ground_truth': 'Los Angeles', 'portability': {}, 'locality': {}, 'subject': 'Marl Young'}, 'time': 6.80166482925415, 'post': {'rewrite_acc': [1.0], 'locality': {}, 'portability': {}}}
+2023-12-13 15:38:07,701 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:38:07,701 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:42:53,163 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:44:13,217 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:47:06,843 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:47:57,510 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:48:17,625 - easyeditor.editors.editor - INFO - Execution 0 editing took 8.602267265319824
+2023-12-13 15:48:17,695 - easyeditor.editors.editor - INFO - Evaluation took 0.06889176368713379
+2023-12-13 15:50:25,233 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:50:46,110 - easyeditor.editors.editor - INFO - Execution 0 editing took 8.595192432403564
+2023-12-13 15:50:46,179 - easyeditor.editors.editor - INFO - Evaluation took 0.06875061988830566
+2023-12-13 15:53:35,696 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:54:00,450 - easyeditor.editors.editor - INFO - Execution 0 editing took 10.298101425170898
+2023-12-13 15:54:00,521 - easyeditor.editors.editor - INFO - Evaluation took 0.07059574127197266
+2023-12-13 15:58:41,852 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 15:59:07,559 - easyeditor.editors.editor - INFO - Execution 0 editing took 7.816061019897461
+2023-12-13 15:59:07,629 - easyeditor.editors.editor - INFO - Evaluation took 0.0697023868560791
+2023-12-13 16:22:27,134 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 16:22:46,588 - easyeditor.editors.editor - INFO - Execution 0 editing took 8.62408971786499
+2023-12-13 16:22:46,659 - easyeditor.editors.editor - INFO - Evaluation took 0.07025527954101562
+2023-12-13 16:29:52,255 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-13 16:30:14,848 - easyeditor.editors.editor - INFO - Execution 0 editing took 9.42267656326294
+2023-12-13 16:30:14,919 - easyeditor.editors.editor - INFO - Evaluation took 0.06927800178527832
+2023-12-26 17:42:14,961 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-26 17:42:37,940 - easyeditor.editors.editor - INFO - Execution 0 editing took 11.41601848602295
+2023-12-26 17:42:38,010 - easyeditor.editors.editor - INFO - Evaluation took 0.06914210319519043
+2023-12-26 17:52:32,450 - easyeditor.editors.editor - INFO - Instantiating model
+2023-12-26 17:52:51,829 - easyeditor.editors.editor - INFO - Execution 0 editing took 8.582974910736084
+2023-12-26 17:52:51,899 - easyeditor.editors.editor - INFO - Evaluation took 0.06905913352966309
